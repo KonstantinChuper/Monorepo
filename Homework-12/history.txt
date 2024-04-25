@@ -1,0 +1,177 @@
+    1  ssh
+    2  ssh ec2-user@linux.itcareerhub.de
+    3  ssh ec2-user@linux.itcareerhub.de
+    4  ssh keygen
+    5  add SSH
+    6  ssh ec2-user@linux.itcareerhub.de
+    7  ssh ec2-user@linux.itcareerhub.de
+    8  ssh ec2-user@linux.carrerithub.de
+    9  ssh ec2-user@linux.itcareerhub.de
+   10  ssh ec2-user@linux.itcareerhub.de
+   11  ssh ec2-user@linux.itcareerhub.de
+   12  ssh ec2-user@linux.itcareerhub.de
+   13  ssh ec2-user@linux.itcareerhub.de
+   14  ssh ec2-user@linux.itcareerhub.de
+   15  ssh ec2-user@linux.itcareerhub.de
+   16  ssh ec2-user@linux.itcareerhub.de
+   17  cd ~/.ssh
+   18  ls -al
+   19  cat id_rsa.pub
+   20  git config --global user.name KonstantinChuper
+   21  git config --global -д
+   22  git config --global -l
+   23  ssh -T git@github.com
+   24  cd /:d
+   25  cd :d
+   26  cd
+   27  ls -al
+   28  git clone git@github.com:KonstantinChuper/290124-wdm.git
+   29  ls -al
+   30  ls -al .git
+   31  cd 290124-wdm/
+   32  ls -al
+   33  ls -al .git
+   34  nano
+   35  git add song.txt
+   36  git status
+   37  git commit -m "Added new file: song.txt"
+   38  git log
+   39  git push
+   40  mkdir git_intro
+   41  cd git_intro/
+   42  git init
+   43  git add Ice_cat.jpg 
+   44  git commit  -m Ice_cat.jpg 
+   45  git commit  -m Ice_cat.jpg
+   46  git init
+   47  git commit  -m Ice_cat.jpg
+   48  git add Ice_cat.jpg 
+   49  git commit  -m Ice_cat.jpg
+   50  git push -m Ice_cat.jpg
+   51  git push Ice_cat.jpg
+   52  git branch -M main
+   53  git remote add origin git@github.com:KonstantinChuper/git_intro
+   54  git push -u origin main
+   55  git log
+   56  cd /d/\!Курсы/\!WEBDEV/GIT/git_intro/
+   57  git log
+   58  touch file.txt
+   59  ls -al
+   60  git add
+   61  git commit
+   62  git push
+   63  ls -al
+   64  ls -al
+   65  git push
+   66  pull
+   67  git pull
+   68  git push
+   69  git log
+   70  git status
+   71  git add file.txt
+   72  git status
+   73  git commit
+   74  git push
+   75  git init git-branch
+   76  git checkout -b gitignore
+   77  cd git-branch
+   78  git checkout -b gitignore
+   79  status
+   80  git status
+   81  git add .
+   82  git commit -m "Adding gitignore.txt"
+   83  git log
+   84  git push origin gitignore
+   85  git branch
+   86  git checkout master
+   87  git checkout main
+   88  git branch
+   89  git log
+   90  git checkout
+   91  git checkout HEAD
+   92  git push
+   93  git push origin gitignore
+   94  git remote add origin <git@github.com:KonstantinChuper/git-branch.git>
+   95  git remote add origin <git@github.com:KonstantinChuper/git-branch.git>
+   96  git push origin gitignore
+   97  пше ыефегы
+   98  git status
+   99  git push
+  100  branch
+  101  git branch
+  102  git push origin gitignore
+  103  git remote -v
+  104  git remote add origin [200~
+  105  git remote add origin https://github.com/KonstantinChuper/git-branch
+  106  git push origin gitignore
+  107  git push git-branch gitignore
+  108  git brnch
+  109  git branch
+  110  cd git-branch/
+  111  git checkout main
+  112  git checkout -b main
+  113  git branch 
+  114  git remote add origin git@github.com:KonstantinChuper/git-branch.git
+  115  git push -u origin gitignore
+  116  git push gitignore.txt
+  117  git branch
+  118  git status
+  119  cd /git-branch
+  120  git branch 
+  121  cd :/d/\!Курсы/\!WEBDEV/GIT/git_intro/
+  122  git branch
+  123  git init
+  124  git status
+  125  git branch
+  126  git status
+  127  git branch
+  128  git clone git@github.com:KonstantinChuper/git-branch.git
+  129  branch
+  130  git branch 
+  131  git branch 
+  132  git status
+  133  git log
+  134  git checkout -b gitignore
+  135  git log
+  136  git checkout -b gitignore
+  137  git branch
+  138  git status
+  139  git add
+  140  git add .
+  141  git commit
+  142  git push
+  143  git push origin gitignore
+  144  git log
+  145  history
+  146  ssh ec2-user@linux.itcareerhub.de
+  147  git clone https://github.com/KonstantinChuper/Homework-12
+  148  ls -al
+  149  cd Homework-12/
+  150  git checkout -b feature
+  151  ls -al
+  152  nano README.md 
+  153  nano .gitignore 
+  154  git commit -am "Выполнил пункт 3 задания. Внёс изменения в два файла"
+  155  git status
+  156  git push origin feature
+  157  git push origin feature
+  158  git status
+  159  git log
+  160  git branch
+  161  git push
+  162  git push --set-upstream origin feature
+  163  git push origin feature
+  164  git push origin feature
+  165  git push feature
+  166  git push origin feature
+  167  git push origin feature
+  168  git push feature
+  169  git push Homework-12
+  170  ls -al
+  171  git push origin feature
+  172  git commit --ammend
+  173  git commit --amend
+  174  git checkout main
+  175  git merge feature
+  176  git log
+  177  history > history.txt
